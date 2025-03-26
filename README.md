@@ -2,7 +2,10 @@
 
 Welcome to my collection of **Natural Language Processing (NLP)** projects. This repository showcases a variety of real-world applications where NLP techniques are applied to analyze and classify textual data.
 
----
+<p align="center">
+  <img src="cloud_nlp.png" width="500" style="border-radius: 90px;">
+</p>
+
 
 ## 📁 Projects Included
 
